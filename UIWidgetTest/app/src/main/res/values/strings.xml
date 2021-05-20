@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIWidgetTest</string>
+    <string name="textView">This is TextView</string>
+    <string name="button1">Button1</string>
+    <string name="editText">Type something here</string>
+    <string name="button2">切换</string>
+    <string name="button3">Add</string>
+    <string name="button4">重置</string>
+</resources>

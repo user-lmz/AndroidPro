@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidThreadTest</string>
+    <string name="buttonText">Change Text</string>
+    <string name="textView">Hello world</string>
+</resources>
